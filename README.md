@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajeevprajapatt
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in Backend development
+- 🌱 I’m currently learning NodeJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 👉 https://www.linkedin.com/in/rajeev-prajapat-17619b258/
 - 😄 Pronouns: He/Him
